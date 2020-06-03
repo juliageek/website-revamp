@@ -1,0 +1,24 @@
+{
+  "hobbies": [
+    {
+      "name":  "Running and any kind of exercising",
+      "description": "Since I discovered the positive effects of exercising, I started practicing it regularly. Running in nature is my favorite.",
+      "photoUrl": "running_shoes.png"
+    },
+    {
+      "name": "Eating",
+      "description": "I'm not sure if I started running because I love to eat, or I eat because I need fuel to exercise! It doesn't even matter in the end. One of my favorite cuisines are Indian and Mexican, but any vegan dish would do.",
+      "photoUrl": "pizza.png"
+    },
+    {
+      "name": "Baking",
+      "description": "When I'm not out running or eating, I enjoy baking. I bake anything from sourdough bread to banana bread (some of my former colleagues will probably remember me fondly because I like to bring cake to the office).",
+      "photoUrl": "bread_basket.png"
+    },
+    {
+      "name": "Nature",
+      "description": "I feel free when I see mountains and the infinite sky.",
+      "photoUrl": "nature_romania_4.jpg"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "languages": [{
+    "name": "JavaScript",
+    "progress": 0.8,
+    "types": ["front-end"]
+  }, {
+    "name": "TypeScript",
+    "progress": 0.6,
+    "types": ["front-end"]
+  }, {
+    "name": "Python",
+    "progress": 0.5,
+    "types": ["back-end"]
+  }, {
+    "name": "PostgreSQL",
+    "progress": 0.3,
+    "types": ["back-end"]
+  }, {
+    "name": "Go",
+    "progress": 0.1,
+    "types": ["back-end"]
+  }],
+  "frameworks": [{
+    "name": "Angular.js",
+    "progress": 0.5,
+    "types": ["front-end"]
+  }, {
+    "name": "Angular",
+    "progress": 0.8,
+    "types": ["front-end"]
+  }, {
+    "name": "RxJs",
+    "progress": 0.6,
+    "types": ["front-end"]
+  }, {
+    "name": "D3",
+    "progress": 0.5,
+    "types": ["front-end"]
+  }, {
+    "name": "Plotly",
+    "progress": 0.4,
+    "types": ["front-end"]
+  }, {
+    "name": "Matplotlib",
+    "progress": 0.6,
+    "types": ["data-analysis"]
+  }, {
+    "name": "Figma",
+    "progress": 0.4,
+    "types": ["front-end"]
+  }, {
+    "name": "Vue.js",
+    "progress": 0.7,
+    "types": ["front-end"]
+  }, {
+    "name": "Django",
+    "progress": 0.3,
+    "types": ["back-end"]
+ }, {
+    "name": "Numpy",
+    "progress": 0.4,
+    "types": ["data-analysis"]
+  }, {
+    "name": "Pandas",
+    "progress": 0.5,
+    "types": ["data-analysis"]
+  }, {
+    "name": "Jest",
+    "progress": 0.6,
+    "types": ["testing"]
+  }, {
+    "name": "Jasmine",
+    "progress": 0.6,
+    "types": ["testing"]
+  }],
+  "tools": [{
+    "name": "Git",
+    "progress": 0.5,
+    "types": ["tools"]
+  }],
+  "operatingSystems": [
+    {
+      "name": "Linux",
+      "progress": 0.4,
+      "types": ["operating-systems"]
+    }
+  ]
+}

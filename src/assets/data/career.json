@@ -1,0 +1,73 @@
+{
+  "2016": [{
+    "title": "Database / Datawarehouse Analyst",
+    "company": "Nokia",
+    "companyIndustry": "Telecommunications",
+    "period": "Feb 2016 - Aug 2016",
+    "description": "Responsible for building dashboards tracking different metrics for internal teams. The role was similar to a fullstack developer. Day to day work included:",
+    "taskList": [
+      "writing SQL queries to retrieve the necessary data and compute the metrics",
+      "building the data visualizations according to the requests of internal customers",
+      "building other custom tools for shift management and employee workload analysis",
+      "generating ad-hoc reports for in-depth analysis of different metrics"
+    ],
+    "technologies": ["Sencha ExtJS", "Angular.js", "PHP5", "Microsoft SQL"]
+  }, {
+    "title": "Frontend Developer",
+    "company": "FNT Software",
+    "companyIndustry": "Telecommunications equipment management software",
+    "period": "Aug 2016 - Jul 2017",
+    "description": "Prepare the refactoring of one of the company's products from Backbone.js to Angular by prototyping the initial designs in Angular and discuss with the Product Owner about potential challenges and drawbacks."
+  }],
+  "2017": [{
+    "title": "Frontend Developer",
+    "company": "Nokia",
+    "companyIndustry": "Telecommunications",
+    "period": "Jul 2017 - Feb 2018",
+    "description": "Work on various projects commissioned by Nokia's external customers such as AT&T and Telefonica. The projects were mainly related to telecommunications equipment management platforms or customer support platforms. Implement the technical solution designed by the Technical Project Manager together with the Project Architect and use the technical stack chosen by the Project Architect for the project."
+  }, {
+    "title": "Freelancer",
+    "company": "Self-employed",
+    "companyIndustry": "various",
+    "period": "July 2017 - May 2018",
+    "description": "I built a number of websites for NGOs with a focus on local culture and history. Some of them were more complex, requiring a CMS solution for people to add articles and photos."
+  }],
+  "2018": [{
+    "title": "Frontend Developer",
+    "company": "Share Dimension (Cinema Intelligence)",
+    "companyIndustry": "Cinema Management Software",
+    "period": "Feb 2018 - May 2018",
+    "description": "Front-end development work on an Angular.js/Angular hybrid project. Main tasks included:",
+    "taskList": [
+      "implementing front-end features after the back-end API endpoints were delivered",
+      "improving the code based on feedback from the QA team",
+      "bug fixing"
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "company": "SciSports",
+    "companyIndustry": "Data analytics for football scouting",
+    "period": "Aug 2018 - Aug 2019",
+    "description": "Front-end development work on a Vue.js project. Main responsibilities:",
+    "taskList": [
+      "work on developing new features according to the product roadmap",
+      "work closely to the UI/UX designer to clarify various aspects and make sure the new feature is true to the overall product look and feel",
+      "align the existing code base to industry best practices, such as component-oriented architecture, standardized code (using ESLint) and semantic versioning",
+      "ensure unit test coverage of 95% using Jest and vuejs-test-utils"
+    ]
+  }],
+  "2019": [{
+    "title": "Fullstack Software Developer",
+    "company": "Crunchr",
+    "companyIndustry": "Workforce management analytics platform",
+    "period": "Aug 2019 - present",
+    "description": "Responsible for the front-end and the back-end development of the proprietary product of the company. My day to day work involves:",
+    "taskList": [
+      "rewriting legacy Angular.js code in Angular",
+      "developing front-end new features according to UI/UX designs",
+      "work on back-end tasks in Python (Django) and PostgreSQL",
+      "bug fixing"
+    ]
+  }]
+}
